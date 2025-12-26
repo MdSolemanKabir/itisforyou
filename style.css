@@ -11,7 +11,14 @@ body {
   color: #fff;
   transition: background 1.5s ease;
 }
-
+#music {
+  opacity: 0.04;
+  position: absolute;
+  left: 70px;
+  top: 387px;
+  height: 100px;
+  width: 100px;
+}
 #letter {
   position: absolute;
   bottom: 15px;
